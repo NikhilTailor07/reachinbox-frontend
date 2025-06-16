@@ -3,7 +3,6 @@
 Reachinbox is a beautiful, modern, and productivity-focused email management application designed for seamless communication and deep email insights. Built using React and TypeScript, it offers an elegant UI and powerful features to enhance your email workflow.
 
 🚀 **[Live Demo](https://soft-tarsier-ebc537.netlify.app)**  
-🔗 **[Claim Netlify Project](https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjUwMDA4MTQ3OjU0ODI0MTQiLCJpYXQiOjE3NDk5OTY0NTB9.pn7qlz9cFsgvNnEHPkuO0-S3T3LPWI-HRQPSANE-wQE)**
 
 ---
 
